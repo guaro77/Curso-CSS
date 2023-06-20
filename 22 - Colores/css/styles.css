@@ -1,0 +1,25 @@
+
+body{
+      background-color: mediumorchid;
+      /* background-color: hsl(0, 100%, 50%); */
+  
+}
+
+main{
+    /* color: aquamarine;
+    background-color: currentColor; */
+}
+
+.box{
+    /* border-top: 200PX solid red;
+    border-left: 250px solid blue;
+    border-right: 250PX solid green; */
+    width: 200px;
+    height: 200px;
+    background-color: lightcoral;
+    box-shadow: 5PX 5PX 10px rgb(0 0 0 / 0.5);
+    box-shadow: 5PX 5PX 10px #0004;
+    box-shadow: 5PX 5PX 10px hsl(180 50% 50%);
+    
+
+ }

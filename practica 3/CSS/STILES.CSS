@@ -1,0 +1,109 @@
+*{
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #dddddd;
+}
+
+.container{
+    position: relative;
+    top: 100px;
+    left: 350px;
+    height: 350px;
+    width: 550px;
+    box-shadow: 1px 2px 3px 1px #7c7279;
+    padding: 30px;
+    background-color: #ececec;
+}
+
+.form{
+    background-color: #33528c;
+    width: 200px;
+    height: 180px;
+}
+
+.h2{
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+
+.input{
+    position: relative;
+    border: 0;
+    border-bottom: 2px solid #c9c9c9;
+    background-color: transparent;
+    color: #7c7279;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 20px;
+}
+
+.button{
+    position: absolute;
+    margin-top: 40px;
+    padding: 6px;
+    width: 12opx;
+    border: #21a085;
+    background-color: #21a085;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 12px;
+    text-transform: uppercase;
+}
+
+.or{
+    position: absolute;
+    left: 230px;
+    top: 150px;
+    border: 0;
+    border-radius: 20px 20px 20px 20px;
+    box-shadow: -0.1px 2 px #dedddd;
+    padding: 8px;
+    background-color: #dedddd;
+}
+
+.redes{
+    position: absolute;
+    left: 300px;
+    bottom: 100px;
+    background-color: #dc4c41;
+    width: 200px;
+    height: 200px;
+}
+
+.face{
+    width: 200px;
+    height: 30px;
+    padding-top: 5px;
+    background-color: #33528c;
+    border: 1px solid #33528c;
+    color: #fff;
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: small;
+}
+
+.tw{
+    width: 200px;
+    height: 30px;
+    padding-top: 5px;
+    background-color: #59adea;
+    border: 1px solid #59adea;
+    color: #fff;
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: small;
+}
+
+.google{
+    width: 200px;
+    height: 30px;
+    padding-top: 5px;
+    background-color: #dc4c41;
+    border: 1px solid #dc4c41;
+    color: #fff;
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: small;
+}

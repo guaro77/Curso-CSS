@@ -1,0 +1,67 @@
+/* 
+*{
+    background-color: lightcoral;
+}
+h1{
+    background-color: lightgreen;
+}
+p{
+    background-color: lightseagreen;
+}
+ul{
+    background-color: lightslategray;
+}
+li{
+    background-color: lightsalmon;
+} */
+/* #title{
+    background-color:lightgreen;
+}
+.title{
+    background-color: lightsalmon;
+}
+
+.text{
+    background-color: lightgray;
+} */
+/* [href]{
+    background-color: mediumorchid;
+}
+[href="https://google.com"]{
+    background-color: chartreuse;
+}
+[href^=color]{
+    background-color: red;
+}
+[href*=modo]{
+    background-color: rgb(55, 0, 255);
+}
+[href$=azul]{
+    background-color: teal;
+}
+[lang|="en"]{
+    background-color: magenta;
+} */
+
+/* .text,
+.text-2,
+.text-3,
+.text-4{
+    background-color: steelblue;
+} */
+
+div .title-2{
+    /* background-color: teal; */
+}
+
+.text-2 + .title-2{
+    /* background-color: thistle; */
+}
+
+.text-2 ~ p{
+    /* background-color: navy; */
+}
+
+.container > p{
+    background-color: tan;
+}
